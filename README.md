@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://virtual-herbal-garden-chi.vercel.app/)
+
 <div align="center">
 
 # 👋 Hi, I'm Rishabh Dubey
