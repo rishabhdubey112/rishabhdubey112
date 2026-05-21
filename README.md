@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rishabh Dubey
 
-### Data Analyst & Full Stack Developer | B.Tech CSE @ AKTU | Open to Opportunities
+### Data Analyst | B.Tech CSE @ AKTU | Open to Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabhdubey112)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabh8601dubey@gmail.com)
@@ -78,12 +78,9 @@
 
 <div align="center">
 
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhdubey112&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdubey112&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rishabhdubey112&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
 ---
 
 <div align="center">
